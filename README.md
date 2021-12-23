@@ -10,6 +10,9 @@ A **SPA (Single-page application)** is a web app implementation that loads only 
 
 When the user clicks a link on the page, then **vanillaJs-spa** makes an ajax request to the clicked link instead of reloading the page. "**vanillaJs-spa**" sends an extra parameter with the ajax request (Example: https://example.com/other-page?ajaxRequest=true) That helps the server to identify the request to send only specific data instead of full-page
 
+#### Demo
+![example image](https://raw.githubusercontent.com/hardik-choudhary/vanillaJs-spa/main/example-image.gif)
+
 ## Usage
 
 Add javascript file to your page
